@@ -1,7 +1,7 @@
 # Timeline
 
 - Date - Arpanet
-- 
+- Date - Ethernet
 
 
 # Boiler Plate
