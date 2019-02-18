@@ -7,3 +7,5 @@
 # Boiler Plate
 
 - UTF8 - blah blah
+
+![alt text](img/remotes.png "Logo Title Text 1")

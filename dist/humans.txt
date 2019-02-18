@@ -15,4 +15,3 @@
     Apache Server Configs, jQuery, Modernizr, Normalize.css
 
 
-![alt text](img/remotes.png "Logo Title Text 1")
