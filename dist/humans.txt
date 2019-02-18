@@ -14,4 +14,4 @@
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
 
-![alt text](img/remotes.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/kaw393939/bootstrapBoilerplate/master/img/remotes.png "Logo Title Text 1")
