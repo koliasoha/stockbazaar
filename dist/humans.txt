@@ -14,4 +14,4 @@
     CSS3, HTML5
     Apache Server Configs, jQuery, Modernizr, Normalize.css
 
-[logo]: img/remotes.png "Picture of Remotes in Webstorm"
+![alt text](img/remotes.png "Logo Title Text 1")
