@@ -1,6 +1,6 @@
 # Timeline
 
-- Date - Arpanet
+- June 8 2019 - Arpanet f
 - Date - Ethernet
 
 
