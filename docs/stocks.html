@@ -60,8 +60,8 @@
   <nav aria-label="breadcrumb">
 
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a href="Index.html">Home</a></li>
-      <li class="breadcrumb-item"><a href=Stocks.html>Stocks</a></li>
+      <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+      <li class="breadcrumb-item"><a href=stocks.html>Stocks</a></li>
       <li class="breadcrumb-item"><a href="cart.html">My Cart</a></li>
     </ol>
   </nav>
@@ -89,8 +89,39 @@
         }
       );
     </script>
+    <button class="btn btn-primary" type="submit">Add to Cart</button>
+
+
   </div>
-  <!-- TradingView Widget END -->
+
+
+  <!-- TradingView Widget BEGIN -->
+  <div class="tradingview-widget-container">
+    <div id="tradingview_3a8ae"></div>
+    <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-GOOGL/" rel="noopener" target="_blank"><span class="blue-text">GOOGL chart</span></a> by TradingView</div>
+    <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+    <script type="text/javascript">
+      new TradingView.widget(
+        {
+          "width": 980,
+          "height": 610,
+          "symbol": "NASDAQ:GOOGL",
+          "interval": "D",
+          "timezone": "Etc/UTC",
+          "theme": "Light",
+          "style": "1",
+          "locale": "en",
+          "toolbar_bg": "#f1f3f6",
+          "enable_publishing": false,
+          "allow_symbol_change": true,
+          "container_id": "tradingview_3a8ae"
+        }
+      );
+    </script>
+    <button class="btn btn-primary" type="submit">Add to Cart</button>
+
+  </div>
+  <!-- TradingView Widget END -->  <!-- TradingView Widget END -->
 </main>
 </body>
 </html>
